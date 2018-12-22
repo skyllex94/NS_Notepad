@@ -1,0 +1,20 @@
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\bin\Debug\Magn3tarPad.exe
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\bin\Debug\Magn3tarPad.pdb
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\bin\Debug\Magn3tarPad.xml
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Debug\Magn3tarPad.Form1.resources
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Debug\Magn3tarPad.Resources.resources
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Debug\Magn3tarPad.vbproj.GenerateResource.Cache
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Debug\Magn3tarPad.exe
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Debug\Magn3tarPad.xml
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Debug\Magn3tarPad.pdb
+E:\VB PROjects\Magn3terPad\Magn3tarPad\Magn3tarPad\bin\Debug\Magn3tarPad.exe
+E:\VB PROjects\Magn3terPad\Magn3tarPad\Magn3tarPad\bin\Debug\Magn3tarPad.pdb
+E:\VB PROjects\Magn3terPad\Magn3tarPad\Magn3tarPad\bin\Debug\Magn3tarPad.xml
+E:\VB PROjects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Debug\ResolveAssemblyReference.cache
+E:\VB PROjects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Debug\Magn3tarPad.Form1.resources
+E:\VB PROjects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Debug\Magn3tarPad.Resources.resources
+E:\VB PROjects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Debug\Magn3tarPad.vbproj.GenerateResource.Cache
+E:\VB PROjects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Debug\Magn3tarPad.exe
+E:\VB PROjects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Debug\Magn3tarPad.xml
+E:\VB PROjects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Debug\Magn3tarPad.pdb

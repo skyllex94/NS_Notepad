@@ -1,0 +1,23 @@
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\bin\Release\Magn3tarPad.exe
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\bin\Release\Magn3tarPad.pdb
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\bin\Release\Magn3tarPad.xml
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Release\Magn3tarPad.Form1.resources
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Release\Magn3tarPad.Resources.resources
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Release\Magn3tarPad.vbproj.GenerateResource.Cache
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Release\Magn3tarPad.exe
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Release\Magn3tarPad.xml
+C:\Documents and Settings\АА_\Local Settings\Application Data\Temporary Projects\Magn3tarPad\obj\Release\Magn3tarPad.pdb
+E:\VB PROjects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Release\ResolveAssemblyReference.cache
+E:\VB PROjects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Release\Magn3tarPad.vbproj.GenerateResource.Cache
+E:\VB Projects\Magn3terPad\Magn3tarPad\Magn3tarPad\bin\Release\--Pad.exe
+E:\VB Projects\Magn3terPad\Magn3tarPad\Magn3tarPad\bin\Release\--Pad.pdb
+E:\VB Projects\Magn3terPad\Magn3tarPad\Magn3tarPad\bin\Release\--Pad.xml
+E:\VB Projects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Release\Pad.Form1.resources
+E:\VB Projects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Release\Pad.Resources.resources
+E:\VB Projects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Release\--Pad.exe
+E:\VB Projects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Release\--Pad.xml
+E:\VB Projects\Magn3terPad\Magn3tarPad\Magn3tarPad\obj\Release\--Pad.pdb
+E:\VB Projects\Magn3tarPad\Magn3tarPad\Magn3tarPad\obj\Release\--Pad.exe
+E:\VB Projects\Magn3tarPad\Magn3tarPad\Magn3tarPad\obj\Release\--Pad.xml
+E:\VB Projects\Magn3tarPad\Magn3tarPad\Magn3tarPad\obj\Release\--Pad.pdb
